@@ -35,7 +35,7 @@ Firebase (for off-chain metadata, optional)
 ## 🪪 Identity Dashboard
 <img src="Screenshot_dashboard.png" width="800" />
 ## 📂 Document Storage & Sharing
-<img src="Screenshot_storage.png" width="800" />
+<img src="Screenshot 2025-09-16 at 10.45.39 AM.png" width="800" />
 ## ✅ Verification Process
 <img src="Screenshot_verification.png" width="800" />
 
