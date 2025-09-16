@@ -1,8 +1,8 @@
-ZenID – Decentralized Identity Management System
+# ZenID – Decentralized Identity Management System
 
 A blockchain-powered decentralized identity (DID) management platform that allows users to securely create, store, and share their digital identity and documents using MetaMask. ZenID ensures privacy, ownership, and trustless verification of identity through blockchain.
 
-🚀 Features
+## 🚀 Features
 
 🪪 Decentralized identity creation with blockchain-backed DID
 
@@ -14,7 +14,7 @@ A blockchain-powered decentralized identity (DID) management platform that allow
 
 ⚡ Transparent and tamper-proof identity management
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Next.js / React.js
 
@@ -30,13 +30,13 @@ Tailwind CSS
 
 Firebase (for off-chain metadata, optional)
 
-🔐 MetaMask Authentication
+## 🔐 MetaMask Authentication
 <img src="Screenshot_auth.png" width="800" />
-🪪 Identity Dashboard
+## 🪪 Identity Dashboard
 <img src="Screenshot_dashboard.png" width="800" />
-📂 Document Storage & Sharing
+## 📂 Document Storage & Sharing
 <img src="Screenshot_storage.png" width="800" />
-✅ Verification Process
+## ✅ Verification Process
 <img src="Screenshot_verification.png" width="800" />
 
 🔗 Live Demo: https://zenid.vercel.app
