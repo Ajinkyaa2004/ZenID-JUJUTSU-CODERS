@@ -31,9 +31,9 @@ Tailwind CSS
 Firebase (for off-chain metadata, optional)
 
 ## 🔐 MetaMask Authentication
-<img src="Screenshot 2025-09-16 at 10.45.39 AM.png" width="800" />
+<img src="Screenshot 2025-09-16 at 10.45.09 AM.png" width="800" />
 ## 🪪 Identity Dashboard
-<img src="Screenshot_dashboard.png" width="800" />
+<img src="Screenshot 2025-09-16 at 10.45.39 AM.png" width="800" />
 ## ✅ Verification Process
 <img src="Screenshot 2025-09-16 at 10.45.21 AM.png" width="800" />
 
